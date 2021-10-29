@@ -1,7 +1,5 @@
 **UNIVERSIDADE LUSÓFONA DE HUMANIDADES E TECNOLOGIAS**
 
-*Linguagens de Programação I - 2019/2020*
-
 # Ficha de Exercícios - 6: Ponteiros
 
 ## Recomendações
